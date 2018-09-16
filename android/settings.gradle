@@ -1,0 +1,3 @@
+rootProject.name = 'CalcMe'
+
+include ':app'
